@@ -1,6 +1,6 @@
 ## Installation
 
-Clone the repository locally and then run the 'npm install' command.
+Clone the repository locally and then run the `npm install` command.
 
 To run the application run: `npm start`
 
